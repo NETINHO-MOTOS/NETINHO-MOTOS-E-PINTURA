@@ -1,2 +1,2 @@
-# netinho-motos-e-pintura
+# netinho-motos-e-pinturas
 Site basico de oficina de motos
